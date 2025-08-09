@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run JavaFX" type="MavenRunConfiguration" factoryName="Maven">
+    <MavenSettings>
+      <option name="myRunnerParameters">
+        <MavenRunnerParameters>
+          <option name="workingDirPath" value="$PROJECT_DIR$" />
+          <option name="goals">
+            <list>
+              <option value="javafx:run" />
+            </list>
+          </option>
+          <option name="profiles">
+            <list />
+          </option>
+        </MavenRunnerParameters>
+      </option>
+    </MavenSettings>
+    <method v="2" />
+  </configuration>
+</component>
